@@ -1,4 +1,4 @@
-### Hi there, I'm Pavel (Pavlusha)👋
+### Hi there, I'm Pavel Zavadski (Pavlusha)👋
 
 I am an experienced web developer with great passion for PHP and Laravel! 🤓
 

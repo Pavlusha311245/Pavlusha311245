@@ -9,3 +9,5 @@ As far as Laravel is concerned, it is my one and only favorite PHP framework in 
 If you need an experienced and interested developer who can not only write code, but also think architecturally, then, of course, contact me. 😎
 
 Let's work together and create something cool! 💪
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64faddb85ce9f4ca58a2dc72?variant=dark&roadmaps=backend%2Cdevops)](https://roadmap.sh)

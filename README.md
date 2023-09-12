@@ -1,4 +1,6 @@
-### Hi there, I'm Pavel Zavadski (Pavlusha)👋
+<h1 align="center">
+  Hi there, I'm Pavel Zavadski (Pavlusha)👋
+</h1>
 
 I am an experienced web developer with great passion for PHP and Laravel! 🤓
 
@@ -9,6 +11,11 @@ As far as Laravel is concerned, it is my one and only favorite PHP framework in 
 If you need an experienced and interested developer who can not only write code, but also think architecturally, then, of course, contact me. 😎
 
 Let's work together and create something cool! 💪
+
+<h2>My contacts</h2>
+<a href="https://www.linkedin.com/in/pavlusha/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                                                  width="32" height="32"/></a>
+<hr>
 
 <div align="left">
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64faddb85ce9f4ca58a2dc72?variant=dark&roadmaps=backend%2Cdevops%2Cpostgresql-dba%2Cdocker" alt="roadmap.sh"/></a>

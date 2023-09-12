@@ -12,9 +12,6 @@ If you need an experienced and interested developer who can not only write code,
 
 Let's work together and create something cool! 💪
 
-<h2>My contacts</h2>
-<a href="https://www.linkedin.com/in/pavlusha/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                                                  width="32" height="32"/></a>
 <hr>
 
 <div align="left">

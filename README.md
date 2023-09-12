@@ -10,4 +10,6 @@ If you need an experienced and interested developer who can not only write code,
 
 Let's work together and create something cool! 💪
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64faddb85ce9f4ca58a2dc72?variant=dark&roadmaps=backend%2Cdevops)](https://roadmap.sh)
+<div align="right">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64faddb85ce9f4ca58a2dc72?variant=dark&roadmaps=backend%2Cdevops%2Cpostgresql-dba%2Cdocker" alt="roadmap.sh"/></a>
+</div>

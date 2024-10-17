@@ -4,7 +4,7 @@
 
 I am an experienced web developer with great passion for PHP and Laravel! 🤓
 
-I've been working in development for over three years now. During this time, I have become closer to working with AWS and can deploy to servers as if it were an easy and enjoyable process. 💻
+I've been working in development for over four years now. During this time, I have become closer to working with AWS and can deploy to servers as if it were an easy and enjoyable process. 💻
 
 As far as Laravel is concerned, it is my one and only favorite PHP framework in the world. 😍
 

@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am an experienced web developer with great passion for PHP and Laravel! 🤓<br>I've been working in development for over four years now. During this time, I have become closer to working with AWS and can deploy to servers as if it were an easy and enjoyable process. 💻<br>As far as Laravel is concerned, it is my one and only favorite PHP framework in the world. 😍<br>If you need an experienced and interested developer who can not only write code, but also think architecturally, then, of course, contact me. 😎<br>Let's work together and create something cool! 💪
+Hi there, I'm Pavel Zavadski (Pavlusha) 👋.
 
+I'm experienced backend developer with strong expertise in API design and deployment automation through AWS and Docker. Specializing in PHP (Laravel and Symfonay) and NodeJS (Or Bun as alternative runtime), I can build applications from scratch and efficiently push them to production. 💻 Also I love optimizing application resources and focusing on cost efficiency.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pavlusha311245) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavlusha_programmer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavlusha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pavel.zavadski) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PavelZavadski) 
